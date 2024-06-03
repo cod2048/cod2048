@@ -27,3 +27,5 @@
 <h3 align="left">기타</h3>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
+<h2 align="left">백준 티어</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cod2048)](https://solved.ac/cod2048/)
