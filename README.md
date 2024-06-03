@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cod2048)](https://solved.ac/cod2048/)
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--
 **cod2048/cod2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
