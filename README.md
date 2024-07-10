@@ -9,7 +9,7 @@
 <h2 align="left">사용 기술</h3><h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${cod2048}">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cod2048&show_icons=true&theme=dracula)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cod2048&layout=compact&theme=dracula)](https://github.com/dongduu/github-readme-stats)
   </a>
 </p>
 <p align="left">
