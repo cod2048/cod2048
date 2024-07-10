@@ -9,7 +9,7 @@
 <h2 align="left">사용 기술</h3><h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${cod2048}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${cod2048}&layout=compact&show_icons=${true}&show_owner=${false}&hide_title=${false}&theme=${nord}&hide=${html, c}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${cod2048}&layout=compact&show_icons=${true}&show_owner=${false}&hide_title=${false}&theme=${nord}&hide=${html}" />
   </a>
 </p>
 <p align="left">
