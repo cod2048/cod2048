@@ -7,9 +7,9 @@
 
 <!-- 기술 스택 -->
 <h2 align="left">사용 기술</h3><h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junik)](https://github.com/cod2048/github-readme-stats)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cod2048&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 <h3 align="left">백엔드</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a> 
