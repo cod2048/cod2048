@@ -8,9 +8,7 @@
 <!-- 기술 스택 -->
 <h2 align="left">사용 기술</h3><h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/${cod2048}">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cod2048&layout=compact&theme=dracula)](https://github.com/dongduu/github-readme-stats)
-  </a>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cod2048&layout=compact)
 </p>
 <p align="left">
 <h3 align="left">백엔드</h3>
