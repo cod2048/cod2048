@@ -8,8 +8,8 @@
 <!-- 기술 스택 -->
 <h2 align="left">사용 기술</h3><h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/cod2048">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${cod2048}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  <a href="https://github.com/${cod2048}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${cod2048}&layout=compact&show_icons=${true}&show_owner=${false}&hide_title=${false}&theme=${nord}&hide=${html, c}" />
   </a>
 </p>
 <p align="left">
