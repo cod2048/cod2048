@@ -1,10 +1,3 @@
-<!-- 프로필 헤더 -->
-<h1 align="center">박준익의 깃허브입니다 👋 👋</h1>
-
-<!-- 소개 섹션 -->
-<h2 align="left">블로그</h3>
-- 📝 https://cod2048.tistory.com/
-
 <!-- 기술 스택 -->
 <h2 align="left">사용 기술</h3><h3 align="center">💡 My Most Used Languages 💡</h3>
 <div align = "center">
